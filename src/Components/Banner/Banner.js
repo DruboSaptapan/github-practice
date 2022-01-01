@@ -16,10 +16,10 @@ const Banner = () => {
                     <div class="carousel-item active">
                         <div class="row">
                             <div class="col">
-                                <img src={Buddha1} class="d-block img-fluid" alt="..." />
+                                <img src={Buddha5} class="d-block img-fluid" alt="..." />
                             </div>
                             <div class="col">
-                                <img src={Buddha2} class="d-block img-fluid" alt="..." />
+                                <img src={Buddha6} class="d-block img-fluid" alt="..." />
                             </div>
                         </div>
                     </div>
@@ -36,10 +36,10 @@ const Banner = () => {
                     <div class="carousel-item">
                         <div class="row">
                             <div class="col">
-                                <img src={Buddha5} class="d-block img-fluid" alt="..." />
+                                <img src={Buddha1} class="d-block img-fluid" alt="..." />
                             </div>
                             <div class="col">
-                                <img src={Buddha6} class="d-block img-fluid" alt="..." />
+                                <img src={Buddha2} class="d-block img-fluid" alt="..." />
                             </div>
                         </div>
                     </div>
